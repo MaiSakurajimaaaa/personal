@@ -1,6 +1,6 @@
 create database hanye_take_out;
 use hanye_take_out;
-
+//ddd
 -- 1、后台管理员工
 drop table if exists employee;
 create table employee(
